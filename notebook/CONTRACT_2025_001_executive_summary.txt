@@ -1,0 +1,24 @@
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+
+Contract ID: CONTRACT_2025_001
+
+What We Found:
+
+Overall Risk Level: MEDIUM
+This contract has moderate concerns but is generally acceptable.
+
+How confident are we? 90% confident in our analysis
+
+Number of problem areas found: 2
+
+What Each Team Found:
+
+  - Legal Team: MEDIUM risk
+  - Compliance Team: MEDIUM risk
+  - Finance Team: MEDIUM risk
+  - Operations Team: MEDIUM risk
+
+Bottom Line:
+
+This contract is workable but could be improved.

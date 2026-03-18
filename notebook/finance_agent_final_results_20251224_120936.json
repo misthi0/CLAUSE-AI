@@ -1,0 +1,107 @@
+{
+  "analysis_metadata": {
+    "analysis_date": "2025-12-24T12:09:36.942225",
+    "contract_length": 895,
+    "contract_type": "Payment Terms and Conditions"
+  },
+  "original_agent": {
+    "agent_name": "Finance Agent - Payment & Penalty Analysis",
+    "results": {
+      "clause_type": "Finance",
+      "extracted_clauses": [
+        "PAYMENT TERMS AND CONDITIONS\n\n1.",
+        "Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+        "Late Payment: Any payment not received within the specified period will be \nsubject to a late fee of 5% per month on the outstanding balance.",
+        "Service Fees: A service fee of $500 will be charged for each deliverable.",
+        "Penalties: Failure to meet payment obligations will result in penalties \nequal to 10% of the total contract value.",
+        "Invoicing: Invoices will be issued monthly and must be paid in full before \nthe next billing cycle.",
+        "Financial Liability: The Contractor shall not be held financially liable \nfor delays caused by the Client.",
+        "Payment Method: All payments must be made via wire transfer or certified check.",
+        "Overdue Amounts: Amounts overdue by more than 60 days will incur an additional \npenalty of 15% and may result in suspension of services."
+      ],
+      "risk_level": "high",
+      "confidence": 0.95,
+      "evidence": [
+        "PAYMENT TERMS AND CONDITIONS\n\n1.",
+        "Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+        "Late Payment: Any payment not received within the specified period will be \nsubject to a late fee of 5% per month on the outstanding balance.",
+        "Service Fees: A service fee of $500 will be charged for each deliverable.",
+        "Penalties: Failure to meet payment obligations will result in penalties \nequal to 10% of the total contract value.",
+        "Invoicing: Invoices will be issued monthly and must be paid in full before \nthe next billing cycle.",
+        "Financial Liability: The Contractor shall not be held financially liable \nfor delays caused by the Client.",
+        "Payment Method: All payments must be made via wire transfer or certified check.",
+        "Overdue Amounts: Amounts overdue by more than 60 days will incur an additional \npenalty of 15% and may result in suspension of services."
+      ],
+      "detected_categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ]
+    },
+    "grounding_validation": {
+      "is_grounded": true,
+      "grounding_score": 1.0,
+      "grounded_clauses": 9,
+      "hallucinated_clauses": 0
+    }
+  },
+  "student_agent": {
+    "agent_name": "Student Agent - Late Fee & Penalty Focus",
+    "results": {
+      "clause_type": "Finance",
+      "extracted_clauses": [
+        "PAYMENT TERMS AND CONDITIONS\n\n1.",
+        "Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+        "Late Payment: Any payment not received within the specified period will be \nsubject to a late fee of 5% per month on the outstanding balance.",
+        "Service Fees: A service fee of $500 will be charged for each deliverable.",
+        "Penalties: Failure to meet payment obligations will result in penalties \nequal to 10% of the total contract value.",
+        "Invoicing: Invoices will be issued monthly and must be paid in full before \nthe next billing cycle.",
+        "Financial Liability: The Contractor shall not be held financially liable \nfor delays caused by the Client.",
+        "Payment Method: All payments must be made via wire transfer or certified check.",
+        "Overdue Amounts: Amounts overdue by more than 60 days will incur an additional \npenalty of 15% and may result in suspension of services."
+      ],
+      "risk_level": "high",
+      "confidence": 0.95,
+      "evidence": [
+        "PAYMENT TERMS AND CONDITIONS\n\n1.",
+        "Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+        "Late Payment: Any payment not received within the specified period will be \nsubject to a late fee of 5% per month on the outstanding balance.",
+        "Service Fees: A service fee of $500 will be charged for each deliverable.",
+        "Penalties: Failure to meet payment obligations will result in penalties \nequal to 10% of the total contract value.",
+        "Invoicing: Invoices will be issued monthly and must be paid in full before \nthe next billing cycle.",
+        "Financial Liability: The Contractor shall not be held financially liable \nfor delays caused by the Client.",
+        "Payment Method: All payments must be made via wire transfer or certified check.",
+        "Overdue Amounts: Amounts overdue by more than 60 days will incur an additional \npenalty of 15% and may result in suspension of services."
+      ],
+      "detected_categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ]
+    },
+    "grounding_validation": {
+      "is_grounded": true,
+      "grounding_score": 1.0,
+      "grounded_clauses": 9,
+      "hallucinated_clauses": 0
+    }
+  },
+  "comparison": {
+    "original_risk": "high",
+    "student_risk": "high",
+    "original_clauses_count": 9,
+    "student_clauses_count": 9,
+    "original_confidence": 0.95,
+    "student_confidence": 0.95
+  },
+  "rag_compliance": {
+    "all_outputs_grounded": true,
+    "original_grounding_score": "100%",
+    "student_grounding_score": "100%",
+    "note": "All extracted clauses are from the source contract (RAG knowledge base)"
+  }
+}

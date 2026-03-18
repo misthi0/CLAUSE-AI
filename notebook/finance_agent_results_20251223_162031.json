@@ -1,0 +1,67 @@
+{
+  "analysis_date": "2025-12-23T16:20:31.526964",
+  "original_agent": {
+    "agent_name": "Finance Agent - Payment & Penalty Analysis",
+    "results": {
+      "clause_type": "Finance",
+      "extracted_clauses": [
+        "Payment is due within 30 days of invoice date.",
+        "Late payments will incur a penalty of 5% per month.",
+        "All fees must be paid in full before services commence.",
+        "The contractor assumes no financial liability for delays.",
+        "Invoices will be sent monthly."
+      ],
+      "risk_level": "high",
+      "confidence": 0.95,
+      "evidence": [
+        "Payment is due within 30 days of invoice date.",
+        "Late payments will incur a penalty of 5% per month.",
+        "All fees must be paid in full before services commence.",
+        "The contractor assumes no financial liability for delays.",
+        "Invoices will be sent monthly."
+      ],
+      "detected_categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ]
+    }
+  },
+  "student_agent": {
+    "agent_name": "Student Agent - Late Fee & Penalty Focus",
+    "results": {
+      "clause_type": "Finance",
+      "extracted_clauses": [
+        "Payment is due within 30 days of invoice date.",
+        "Late payments will incur a penalty of 5% per month.",
+        "All fees must be paid in full before services commence.",
+        "The contractor assumes no financial liability for delays.",
+        "Invoices will be sent monthly."
+      ],
+      "risk_level": "high",
+      "confidence": 0.95,
+      "evidence": [
+        "Payment is due within 30 days of invoice date.",
+        "Late payments will incur a penalty of 5% per month.",
+        "All fees must be paid in full before services commence.",
+        "The contractor assumes no financial liability for delays.",
+        "Invoices will be sent monthly."
+      ],
+      "detected_categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ]
+    }
+  },
+  "comparison": {
+    "original_risk": "high",
+    "student_risk": "high",
+    "original_clauses": 5,
+    "student_clauses": 5
+  }
+}

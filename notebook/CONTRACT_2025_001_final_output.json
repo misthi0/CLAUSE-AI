@@ -1,0 +1,62 @@
+{
+  "contract_id": "CONTRACT_2025_001",
+  "legal": {
+    "agent": "Legal",
+    "status": "refined",
+    "risk_level": "medium",
+    "analysis": "Contract terms reviewed and validated",
+    "risks": [
+      "Payment terms need clarification",
+      "Termination clause is standard"
+    ],
+    "recommendations": [
+      "Add force majeure clause"
+    ]
+  },
+  "compliance": {
+    "agent": "Compliance",
+    "status": "refined",
+    "risk_level": "medium",
+    "analysis": "Regulatory compliance checked",
+    "reason": "Termination clause combined with financial penalties",
+    "recommendations": [
+      "Update data privacy section"
+    ]
+  },
+  "finance": {
+    "agent": "Finance",
+    "status": "refined",
+    "risk_level": "medium",
+    "analysis": "Financial terms analyzed",
+    "payment_terms": "Net 30",
+    "total_value": "$50,000",
+    "recommendations": [
+      "Negotiate early payment discount"
+    ]
+  },
+  "operations": {
+    "agent": "Operations",
+    "status": "complete",
+    "risk_level": "medium",
+    "analysis": "Operational feasibility assessed",
+    "timeline": "6 months",
+    "recommendations": [
+      "Set up weekly status meetings"
+    ]
+  },
+  "overall_risk": "medium",
+  "confidence_score": 0.9,
+  "high_risk_clauses": [
+    {
+      "clause": "Payment terms need clarification",
+      "source_agent": "legal",
+      "severity": "medium"
+    },
+    {
+      "clause": "Termination clause is standard",
+      "source_agent": "legal",
+      "severity": "medium"
+    }
+  ],
+  "generated_at": "2026-01-11T18:27:40.219522"
+}
