@@ -1,0 +1,65 @@
+{
+  "original_keywords": {
+    "keywords": [
+      "termination",
+      "breach",
+      "governing law",
+      "jurisdiction",
+      "liability",
+      "indemnify",
+      "intellectual property",
+      "confidential",
+      "force majeure",
+      "dispute",
+      "arbitration"
+    ],
+    "chunks_retrieved": 18,
+    "clauses_extracted": 4,
+    "confidence": 0.8,
+    "risk_level": "low",
+    "legal_impact": "LOW - Favorable legal conditions",
+    "legal_areas": [
+      "Dispute Resolution",
+      "Breach of Contract",
+      "Indemnification"
+    ]
+  },
+  "new_keywords": {
+    "keywords": [
+      "termination",
+      "breach",
+      "governing law",
+      "jurisdiction",
+      "liability",
+      "indemnify",
+      "intellectual property",
+      "confidential",
+      "force majeure",
+      "dispute",
+      "arbitration",
+      "indemnification"
+    ],
+    "chunks_retrieved": 19,
+    "clauses_extracted": 4,
+    "confidence": 0.8,
+    "risk_level": "low",
+    "legal_impact": "LOW - Favorable legal conditions",
+    "legal_areas": [
+      "Dispute Resolution",
+      "Breach of Contract",
+      "Indemnification"
+    ],
+    "indemnification_clauses_found": 1
+  },
+  "changes": {
+    "clause_increase": 0,
+    "confidence_change": 0.0,
+    "risk_level_changed": false,
+    "new_areas_identified": []
+  },
+  "observations": [
+    "Adding 'indemnification' keyword found 1 indemnification clause(s)",
+    "Indemnification clauses identify liability protection mechanisms",
+    "More chunks retrieved with 'indemnification' keyword"
+  ]
+}

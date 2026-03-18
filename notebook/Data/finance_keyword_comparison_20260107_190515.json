@@ -1,0 +1,49 @@
+{
+  "original_keywords": {
+    "keywords": [
+      "payment",
+      "invoice",
+      "penalty",
+      "late fee",
+      "refund",
+      "billing",
+      "cost",
+      "reimbursement",
+      "default",
+      "charges",
+      "fee",
+      "pricing"
+    ],
+    "chunks_retrieved": 18,
+    "clauses_extracted": 6,
+    "confidence": 0.98,
+    "risk_level": "high",
+    "financial_impact": "HIGH - Multiple penalties and strict payment terms"
+  },
+  "new_keywords": {
+    "keywords": [
+      "payment",
+      "invoice",
+      "penalty",
+      "late fee",
+      "refund",
+      "billing",
+      "cost",
+      "reimbursement",
+      "default",
+      "charges",
+      "fee",
+      "pricing",
+      "interest"
+    ],
+    "chunks_retrieved": 18,
+    "clauses_extracted": 6,
+    "confidence": 0.98,
+    "risk_level": "high",
+    "financial_impact": "HIGH - Multiple penalties and strict payment terms",
+    "interest_clauses_found": 0
+  },
+  "observations": [
+    "Risk level remained the same"
+  ]
+}

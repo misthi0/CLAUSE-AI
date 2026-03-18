@@ -1,0 +1,17 @@
+{
+  "clause_type": "Payment",
+  "extracted_clauses": [
+    "SERVICE AGREEMENT\n\n1.",
+    "PAYMENT TERMS\nPayment is due net 30 days from invoice date.",
+    "Late payments will incur a 2% monthly penalty fee.",
+    "All fees are non-refundable once services are rendered."
+  ],
+  "risk_level": "high",
+  "confidence": 0.790335875749588,
+  "evidence": [
+    "SERVICE AGREEMENT\n\n1.",
+    "PAYMENT TERMS\nPayment is due net 30 days from invoice date.",
+    "Late payments will incur a 2% monthly penalty fee.",
+    "All fees are non-refundable once services are rendered."
+  ]
+}

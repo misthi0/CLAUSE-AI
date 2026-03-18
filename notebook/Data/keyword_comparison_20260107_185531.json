@@ -1,0 +1,41 @@
+{
+  "original_keywords": {
+    "keywords": [
+      "compliance",
+      "gdpr",
+      "data protection",
+      "privacy",
+      "audit",
+      "regulatory",
+      "security",
+      "certification",
+      "breach notification",
+      "reporting"
+    ],
+    "chunks_retrieved": 14,
+    "clauses_extracted": 5,
+    "confidence": 0.8918654084205628,
+    "risk_level": "low"
+  },
+  "new_keywords": {
+    "keywords": [
+      "gdpr article",
+      "data breach",
+      "personal data",
+      "soc2",
+      "iso 27001",
+      "encryption",
+      "security measures",
+      "compliance audit"
+    ],
+    "chunks_retrieved": 5,
+    "clauses_extracted": 4,
+    "confidence": 0.9,
+    "risk_level": "high"
+  },
+  "observations": [
+    "More specific keywords retrieved FEWER chunks (more targeted)",
+    "New keywords INCREASED confidence by 0.8%",
+    "Clause extraction changed: 1 clause difference"
+  ]
+}

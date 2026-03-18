@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "generated_date": "2026-01-02T13:00:31.800762",
+    "report_type": "Conditional Routing Results",
+    "version": "1.0"
+  },
+  "test_case_1_legal": {
+    "query": "Review termination clause",
+    "agent_executed": [
+      "legal_agent"
+    ],
+    "clauses_found": 4
+  },
+  "test_case_2_finance": {
+    "query": "Check late payment penalties",
+    "agent_executed": [
+      "finance_agent"
+    ],
+    "clauses_found": 5
+  },
+  "test_case_3_multi_intent": {
+    "query": "Check GDPR compliance and payment terms",
+    "agent_executed": [
+      "compliance_agent"
+    ],
+    "clauses_found": 5,
+    "limitation": "Only first matching agent executes"
+  },
+  "enhanced_router_tests": [
+    {
+      "query": "Review intellectual property clause",
+      "agent": "legal_agent"
+    },
+    {
+      "query": "Check HIPAA compliance requirements",
+      "agent": "compliance_agent"
+    },
+    {
+      "query": "What is the interest rate on late payments?",
+      "agent": "finance_agent"
+    },
+    {
+      "query": "Explain the escalation process for issues",
+      "agent": "operations_agent"
+    },
+    {
+      "query": "Review force majeure provisions",
+      "agent": "legal_agent"
+    },
+    {
+      "query": "Check data breach notification requirements",
+      "agent": "compliance_agent"
+    }
+  ],
+  "student_task": {
+    "new_keywords_added": {
+      "legal": [
+        "force majeure",
+        "intellectual property",
+        "confidentiality"
+      ],
+      "compliance": [
+        "sox",
+        "hipaa",
+        "pci",
+        "data breach"
+      ],
+      "finance": [
+        "tax",
+        "currency",
+        "interest rate",
+        "discount"
+      ],
+      "operations": [
+        "warranty period",
+        "acceptance criteria",
+        "escalation"
+      ]
+    },
+    "tests_passed": 6
+  }
+}

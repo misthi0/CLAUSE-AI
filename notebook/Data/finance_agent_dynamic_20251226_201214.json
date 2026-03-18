@@ -1,0 +1,56 @@
+{
+  "agent_name": "Finance Agent - Dynamic",
+  "agent_type": "Finance",
+  "clause_type": "Finance",
+  "extracted_clauses": [
+    "PAYMENT TERMS: Payment due within 30 days of invoice.",
+    "Late payments incur 5% penalty per month.",
+    "All fees must be paid in full."
+  ],
+  "risk_level": "high",
+  "confidence": 0.9,
+  "evidence": [
+    "PAYMENT TERMS: Payment due within 30 days of invoice.",
+    "Late payments incur 5% penalty per month.",
+    "All fees must be paid in full."
+  ],
+  "detected_categories": [
+    "fees",
+    "late",
+    "payment",
+    "penalty"
+  ],
+  "source_tracking": [
+    {
+      "clause": "PAYMENT TERMS: Payment due within 30 days of invoice.",
+      "category": "payment",
+      "source_info": {
+        "source_file": "finance_contract.txt",
+        "line_number": 2,
+        "section": "Unknown Section",
+        "original_line": "PAYMENT TERMS: Payment due within 30 days of invoice."
+      }
+    },
+    {
+      "clause": "Late payments incur 5% penalty per month.",
+      "category": "payment",
+      "source_info": {
+        "source_file": "finance_contract.txt",
+        "line_number": 3,
+        "section": "Unknown Section",
+        "original_line": "Late payments incur 5% penalty per month."
+      }
+    },
+    {
+      "clause": "All fees must be paid in full.",
+      "category": "payment",
+      "source_info": {
+        "source_file": "finance_contract.txt",
+        "line_number": 4,
+        "section": "Unknown Section",
+        "original_line": "All fees must be paid in full."
+      }
+    }
+  ],
+  "timestamp": "2025-12-26T20:12:02.207254"
+}

@@ -1,0 +1,84 @@
+{
+  "pipeline_metadata": {
+    "execution_date": "2026-01-07T19:05:15.986894",
+    "query_template": "Identify clauses related to:\n- Payment terms and schedules\n- Late payment penalties\n- Invoice and billing requirements\n- Refund policies\n- Financial obligations\n- Fee structures\n- Cost reimbursement\n- Payment default consequences\n",
+    "keywords_used": [
+      "payment",
+      "invoice",
+      "penalty",
+      "late fee",
+      "refund",
+      "billing",
+      "cost",
+      "reimbursement",
+      "default",
+      "charges",
+      "fee",
+      "pricing"
+    ],
+    "execution_time": 0.0006031990051269531
+  },
+  "retrieval_results": {
+    "total_chunks_retrieved": 18,
+    "chunks_used": 5,
+    "retrieval_metadata": {
+      "total_chunks_retrieved": 18,
+      "chunks_used": 5,
+      "total_relevance_score": 16,
+      "keywords_used": [
+        "payment",
+        "invoice",
+        "penalty",
+        "late fee",
+        "refund",
+        "billing",
+        "cost",
+        "reimbursement",
+        "default",
+        "charges",
+        "fee",
+        "pricing"
+      ]
+    }
+  },
+  "agent_analysis": {
+    "clause_type": "Finance",
+    "extracted_clauses": [
+      "In the event of payment default exceeding 60 days, the Service Provider reserves the right to:",
+      "Late payments will incur a penalty fee of 2% per month on the outstanding balance.",
+      "An additional late fee of $50 applies for payments overdue by more than 15 days.",
+      "All setup fees, onboarding costs, and prepaid service fees are non-refundable once services",
+      "Service fees may be refunded on a pro-rata basis if services are terminated with 30 days",
+      "written notice, subject to no outstanding invoices."
+    ],
+    "risk_level": "high",
+    "confidence": 0.98,
+    "evidence": [
+      "In the event of payment default exceeding 60 days, the Service Provider reserves the right to:",
+      "Late payments will incur a penalty fee of 2% per month on the outstanding balance.",
+      "An additional late fee of $50 applies for payments overdue by more than 15 days."
+    ]
+  },
+  "risk_summary": {
+    "overall_risk": "high",
+    "confidence_score": 0.98,
+    "total_clauses_identified": 6,
+    "finance_areas": [
+      "Payment Terms",
+      "Payment Default",
+      "Penalties",
+      "Refund Policy"
+    ],
+    "risk_factors": [
+      "High financial risk identified (2 penalty clauses)",
+      "Payment default consequences identified (1 clauses)"
+    ],
+    "recommendations": [
+      "Review all penalty clauses carefully",
+      "Negotiate payment terms if possible",
+      "Ensure payment processes are robust"
+    ],
+    "financial_impact": "HIGH - Multiple penalties and strict payment terms"
+  },
+  "raw_context": "In the event of payment default exceeding 60 days, the Service Provider reserves the right to:\n- Suspend services immediately\n- Charge collection costs and legal fees\n- Report the default to credit agencies\n\nLate payments will incur a penalty fee of 2% per month on the outstanding balance.\n\nAn additional late fee of $50 applies for payments overdue by more than 15 days.\n\nAll setup fees, onboarding costs, and prepaid service fees are non-refundable once services \nhave commenced.\n\nService fees may be refunded on a pro-rata basis if services are terminated with 30 days \nwritten notice, subject to no outstanding invoices."
+}

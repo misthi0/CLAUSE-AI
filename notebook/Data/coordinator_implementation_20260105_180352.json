@@ -1,0 +1,81 @@
+{
+  "coordinator_metadata": {
+    "generated_date": "2026-01-05T18:03:52.096811",
+    "report_type": "Coordinator Logic Implementation",
+    "version": "1.0"
+  },
+  "routing_rules": {
+    "legal": [
+      "termination",
+      "governing law",
+      "jurisdiction",
+      "indemnity"
+    ],
+    "compliance": [
+      "gdpr",
+      "audit",
+      "regulatory",
+      "data protection"
+    ],
+    "finance": [
+      "payment",
+      "fee",
+      "penalty",
+      "invoice"
+    ],
+    "operations": [
+      "deliverable",
+      "timeline",
+      "sla",
+      "milestone"
+    ]
+  },
+  "test_results": [
+    {
+      "query": "Review termination and governing law clauses",
+      "routed_agents": [
+        "legal"
+      ],
+      "agent_count": 1,
+      "outputs_collected": [
+        "legal"
+      ]
+    },
+    {
+      "query": "Check GDPR and data protection compliance",
+      "routed_agents": [
+        "compliance"
+      ],
+      "agent_count": 1,
+      "outputs_collected": [
+        "compliance"
+      ]
+    },
+    {
+      "query": "Analyze payment terms and penalties",
+      "routed_agents": [
+        "finance"
+      ],
+      "agent_count": 1,
+      "outputs_collected": [
+        "finance"
+      ]
+    },
+    {
+      "query": "Review deliverables and SLA requirements",
+      "routed_agents": [
+        "operations"
+      ],
+      "agent_count": 1,
+      "outputs_collected": [
+        "operations"
+      ]
+    }
+  ],
+  "student_task": {
+    "keyword_added": "indemnity",
+    "assigned_to": "legal",
+    "reason": "Indemnity is a legal protection clause requiring legal expertise",
+    "tests_passed": true
+  }
+}

@@ -1,0 +1,58 @@
+======================================================================
+CONDITIONAL ROUTING RESULTS
+======================================================================
+
+Generated: 2026-01-02 13:00:31
+
+TEST CASE 1: Legal Query
+----------------------------------------------------------------------
+Query: Review termination clause
+Agent: ['legal_agent']
+Result: ✓ Only Legal Agent executed
+
+TEST CASE 2: Finance Query
+----------------------------------------------------------------------
+Query: Check late payment penalties
+Agent: ['finance_agent']
+Result: ✓ Only Finance Agent executed
+
+TEST CASE 3: Multiple Intent (Limitation)
+----------------------------------------------------------------------
+Query: Check GDPR compliance and payment terms
+Agent: ['compliance_agent']
+Result: ✗ Only first match executed (limitation)
+
+======================================================================
+STUDENT TASK: Enhanced Router Tests
+======================================================================
+
+Test 1: Review intellectual property clause
+   → legal_agent
+
+Test 2: Check HIPAA compliance requirements
+   → compliance_agent
+
+Test 3: What is the interest rate on late payments?
+   → finance_agent
+
+Test 4: Explain the escalation process for issues
+   → operations_agent
+
+Test 5: Review force majeure provisions
+   → legal_agent
+
+Test 6: Check data breach notification requirements
+   → compliance_agent
+
+======================================================================
+KEY LEARNINGS
+======================================================================
+1. Conditional routing reduces execution time
+2. Only relevant agent executes
+3. Limitation: Single-intent queries only
+4. New keywords improve routing accuracy
+5. Future: Multi-agent routing for complex queries
+
+======================================================================
+END OF REPORT
+======================================================================

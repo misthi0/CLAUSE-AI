@@ -1,0 +1,271 @@
+======================================================================
+SOURCE TRACKING REPORT
+Exact RAG File Locations for All Extracted Clauses
+======================================================================
+
+Generated: 2025-12-26 19:46:42
+
+======================================================================
+FINANCE CONTRACT SOURCE TRACKING
+======================================================================
+
+RAG Source File: payment_terms_contract.txt
+Total Clauses Extracted: 9
+Risk Level: HIGH
+
+
+Clause 1:
+   Extracted Text: PAYMENT TERMS AND CONDITIONS
+
+1.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 2
+      Section: PAYMENT TERMS AND CONDITIONS
+      Original Text: PAYMENT TERMS AND CONDITIONS
+
+----------------------------------------------------------------------
+
+Clause 2:
+   Extracted Text: Payment Schedule: Client shall pay Contractor within 30 days of invoice date.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 4
+      Section: 1. Payment Schedule: Client shall pay Contractor within 30 days of invoice date.
+      Original Text: 1. Payment Schedule: Client shall pay Contractor within 30 days of invoice date.
+      Character Position: 34-110
+
+----------------------------------------------------------------------
+
+Clause 3:
+   Extracted Text: Late Payment: Any payment not received within the specified period will be 
+subject to a late fee of 5% per month on the outstanding balance.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 6
+      Section: 2. Late Payment: Any payment not received within the specified period will be
+      Original Text: 2. Late Payment: Any payment not received within the specified period will be 
+
+----------------------------------------------------------------------
+
+Clause 4:
+   Extracted Text: Service Fees: A service fee of $500 will be charged for each deliverable.
+   Category: fees
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 9
+      Section: 3. Service Fees: A service fee of $500 will be charged for each deliverable.
+      Original Text: 3. Service Fees: A service fee of $500 will be charged for each deliverable.
+      Character Position: 262-334
+
+----------------------------------------------------------------------
+
+Clause 5:
+   Extracted Text: Penalties: Failure to meet payment obligations will result in penalties 
+equal to 10% of the total contract value.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 11
+      Section: 4. Penalties: Failure to meet payment obligations will result in penalties
+      Original Text: 4. Penalties: Failure to meet payment obligations will result in penalties 
+
+----------------------------------------------------------------------
+
+Clause 6:
+   Extracted Text: Invoicing: Invoices will be issued monthly and must be paid in full before 
+the next billing cycle.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 14
+      Section: 5. Invoicing: Invoices will be issued monthly and must be paid in full before
+      Original Text: 5. Invoicing: Invoices will be issued monthly and must be paid in full before 
+
+----------------------------------------------------------------------
+
+Clause 7:
+   Extracted Text: Financial Liability: The Contractor shall not be held financially liable 
+for delays caused by the Client.
+   Category: liability
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 17
+      Section: 6. Financial Liability: The Contractor shall not be held financially liable
+      Original Text: 6. Financial Liability: The Contractor shall not be held financially liable 
+
+----------------------------------------------------------------------
+
+Clause 8:
+   Extracted Text: Payment Method: All payments must be made via wire transfer or certified check.
+   Category: payment
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 20
+      Section: 7. Payment Method: All payments must be made via wire transfer or certified check.
+      Original Text: 7. Payment Method: All payments must be made via wire transfer or certified check.
+      Character Position: 674-752
+
+----------------------------------------------------------------------
+
+Clause 9:
+   Extracted Text: Overdue Amounts: Amounts overdue by more than 60 days will incur an additional 
+penalty of 15% and may result in suspension of services.
+   Category: late
+
+   RAG SOURCE INFORMATION:
+      Source File: payment_terms_contract.txt
+      Line Number: 22
+      Section: 8. Overdue Amounts: Amounts overdue by more than 60 days will incur an additional
+      Original Text: 8. Overdue Amounts: Amounts overdue by more than 60 days will incur an additional 
+
+----------------------------------------------------------------------
+
+======================================================================
+OPERATIONS CONTRACT SOURCE TRACKING
+======================================================================
+
+RAG Source File: service_level_agreement.txt
+Total Clauses Extracted: 9
+Risk Level: HIGH
+
+
+Clause 1:
+   Extracted Text: SERVICE LEVEL AGREEMENT
+
+1.
+   Category: performance
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 2
+      Section: SERVICE LEVEL AGREEMENT
+      Original Text: SERVICE LEVEL AGREEMENT
+
+----------------------------------------------------------------------
+
+Clause 2:
+   Extracted Text: Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.
+   Category: deliverables
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 4
+      Section: 1. Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.
+      Original Text: 1. Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.
+      Character Position: 29-124
+
+----------------------------------------------------------------------
+
+Clause 3:
+   Extracted Text: Timeline: All deliverables must be completed within 90 days of project initiation.
+   Category: deliverables
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 6
+      Section: 2. Timeline: All deliverables must be completed within 90 days of project initiation.
+      Original Text: 2. Timeline: All deliverables must be completed within 90 days of project initiation.
+      Character Position: 130-211
+
+----------------------------------------------------------------------
+
+Clause 4:
+   Extracted Text: Milestones: Project shall be completed in three phases:
+   - Phase 1: Requirements gathering (30 days)
+   - Phase 2: Implementation (45 days)
+   - Phase 3: Testing and deployment (15 days)
+
+4.
+   Category: milestones
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 8
+      Section: 3. Milestones: Project shall be completed in three phases:
+      Original Text: 3. Milestones: Project shall be completed in three phases:
+
+----------------------------------------------------------------------
+
+Clause 5:
+   Extracted Text: Service Obligations: Contractor must maintain 99.
+   Category: obligations
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 13
+      Section: 4. Service Obligations: Contractor must maintain 99.9% uptime for all systems.
+      Original Text: 4. Service Obligations: Contractor must maintain 99.9% uptime for all systems.
+      Character Position: 410-458
+
+----------------------------------------------------------------------
+
+Clause 6:
+   Extracted Text: Performance Standards: Response time for critical issues shall not exceed 2 hours.
+   Category: obligations
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 15
+      Section: 5. Performance Standards: Response time for critical issues shall not exceed 2 hours.
+      Original Text: 5. Performance Standards: Response time for critical issues shall not exceed 2 hours.
+      Character Position: 490-571
+
+----------------------------------------------------------------------
+
+Clause 7:
+   Extracted Text: Quality Standards: All deliverables must meet ISO 9001 quality standards.
+   Category: deliverables
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 17
+      Section: 6. Quality Standards: All deliverables must meet ISO 9001 quality standards.
+      Original Text: 6. Quality Standards: All deliverables must meet ISO 9001 quality standards.
+      Character Position: 577-649
+
+----------------------------------------------------------------------
+
+Clause 8:
+   Extracted Text: Reporting: Monthly performance reports must be submitted by the 5th business day of each month.
+   Category: obligations
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 19
+      Section: 7. Reporting: Monthly performance reports must be submitted by the 5th business day of each month.
+      Original Text: 7. Reporting: Monthly performance reports must be submitted by the 5th business day of each month.
+      Character Position: 655-749
+
+----------------------------------------------------------------------
+
+Clause 9:
+   Extracted Text: Support Obligations: Contractor shall provide 24/7 technical support for production systems.
+   Category: obligations
+
+   RAG SOURCE INFORMATION:
+      Source File: service_level_agreement.txt
+      Line Number: 21
+      Section: 8. Support Obligations: Contractor shall provide 24/7 technical support for production systems.
+      Original Text: 8. Support Obligations: Contractor shall provide 24/7 technical support for production systems.
+      Character Position: 755-846
+
+----------------------------------------------------------------------
+
+======================================================================
+END OF SOURCE TRACKING REPORT
+======================================================================
+
+All extracted clauses have been traced to their exact location
+in the RAG knowledge base files.

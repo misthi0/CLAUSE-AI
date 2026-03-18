@@ -1,0 +1,52 @@
+======================================================================
+STUDENT OPERATIONS AGENT - COMPARISON REPORT
+======================================================================
+
+Analysis Date: 2025-12-24 15:24:12
+
+ORIGINAL AGENT:
+   Risk Level: high
+   Confidence: 0.95
+   Clauses: 9
+   Grounding: 100%
+
+STUDENT AGENT:
+   Risk Level: high
+   Confidence: 0.95
+   Clauses: 9
+   Grounding: 100%
+
+======================================================================
+EXTRACTED OBLIGATIONS
+======================================================================
+
+Student Agent Extractions:
+
+1. SERVICE LEVEL AGREEMENT
+
+1.
+
+2. Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.
+
+3. Timeline: All deliverables must be completed within 90 days of project initiation.
+
+4. Milestones: Project shall be completed in three phases:
+   - Phase 1: Requirements gathering (30 days)
+   - Phase 2: Implementation (45 days)
+   - Phase 3: Testing and deployment (15 days)
+
+4.
+
+5. Service Obligations: Contractor must maintain 99.
+
+6. Performance Standards: Response time for critical issues shall not exceed 2 hours.
+
+7. Quality Standards: All deliverables must meet ISO 9001 quality standards.
+
+8. Reporting: Monthly performance reports must be submitted by the 5th business day of each month.
+
+9. Support Obligations: Contractor shall provide 24/7 technical support for production systems.
+
+======================================================================
+END OF REPORT
+======================================================================

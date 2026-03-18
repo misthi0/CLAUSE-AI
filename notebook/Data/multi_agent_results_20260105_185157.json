@@ -1,0 +1,70 @@
+{
+  "Legal": {
+    "clause_type": "Termination",
+    "extracted_clauses": [
+      "SERVICE AGREEMENT\n\n1.",
+      "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+      "Either party may terminate this Agreement immediately if the other party materially breaches any term.",
+      "Scheduled maintenance windows require 48 hours notice."
+    ],
+    "risk_level": "medium",
+    "confidence": 0.8066661924123764,
+    "evidence": [
+      "SERVICE AGREEMENT\n\n1.",
+      "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+      "Either party may terminate this Agreement immediately if the other party materially breaches any term.",
+      "Scheduled maintenance windows require 48 hours notice."
+    ]
+  },
+  "Compliance": {
+    "clause_type": "Compliance",
+    "extracted_clauses": [
+      "DATA PROTECTION\nThe Contractor shall comply with all applicable data protection laws including GDPR.",
+      "All personal data must be encrypted and stored securely.",
+      "Data breach notification must be provided within 72 hours."
+    ],
+    "risk_level": "high",
+    "confidence": 0.8018569986025492,
+    "evidence": [
+      "DATA PROTECTION\nThe Contractor shall comply with all applicable data protection laws including GDPR.",
+      "All personal data must be encrypted and stored securely.",
+      "Data breach notification must be provided within 72 hours."
+    ]
+  },
+  "Finance": {
+    "clause_type": "Payment",
+    "extracted_clauses": [
+      "SERVICE AGREEMENT\n\n1.",
+      "PAYMENT TERMS\nPayment is due net 30 days from invoice date.",
+      "Late payments will incur a 2% monthly penalty fee.",
+      "All fees are non-refundable once services are rendered."
+    ],
+    "risk_level": "high",
+    "confidence": 0.790335875749588,
+    "evidence": [
+      "SERVICE AGREEMENT\n\n1.",
+      "PAYMENT TERMS\nPayment is due net 30 days from invoice date.",
+      "Late payments will incur a 2% monthly penalty fee.",
+      "All fees are non-refundable once services are rendered."
+    ]
+  },
+  "Operations": {
+    "clause_type": "SLA",
+    "extracted_clauses": [
+      "SERVICE AGREEMENT\n\n1.",
+      "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+      "SERVICE LEVEL AGREEMENT\nThe Contractor guarantees 99.9% uptime for all services.",
+      "Response time for critical issues: within 1 hour.",
+      "Scheduled maintenance windows require 48 hours notice."
+    ],
+    "risk_level": "low",
+    "confidence": 0.8531167507171631,
+    "evidence": [
+      "SERVICE AGREEMENT\n\n1.",
+      "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+      "SERVICE LEVEL AGREEMENT\nThe Contractor guarantees 99.9% uptime for all services.",
+      "Response time for critical issues: within 1 hour.",
+      "Scheduled maintenance windows require 48 hours notice."
+    ]
+  }
+}

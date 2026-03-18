@@ -1,0 +1,50 @@
+{
+  "legal": [
+    "termination",
+    "governing law",
+    "jurisdiction",
+    "breach",
+    "liability",
+    "indemnification",
+    "indemnity",
+    "contract",
+    "agreement",
+    "legal obligation"
+  ],
+  "compliance": [
+    "gdpr",
+    "audit",
+    "regulatory",
+    "data protection",
+    "privacy",
+    "soc2",
+    "iso",
+    "hipaa",
+    "compliance",
+    "regulation"
+  ],
+  "finance": [
+    "payment",
+    "fee",
+    "penalty",
+    "invoice",
+    "refund",
+    "pricing",
+    "cost",
+    "late payment",
+    "financial",
+    "billing"
+  ],
+  "operations": [
+    "deliverable",
+    "timeline",
+    "sla",
+    "milestone",
+    "service level",
+    "uptime",
+    "performance",
+    "delivery",
+    "deadline",
+    "operational"
+  ]
+}

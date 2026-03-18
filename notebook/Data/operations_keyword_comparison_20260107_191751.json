@@ -1,0 +1,67 @@
+{
+  "original_keywords": {
+    "keywords": [
+      "sla",
+      "service level",
+      "timeline",
+      "milestone",
+      "deliverable",
+      "performance",
+      "response time",
+      "availability",
+      "maintenance",
+      "deadline"
+    ],
+    "chunks_retrieved": 19,
+    "clauses_extracted": 3,
+    "confidence": 0.72,
+    "risk_level": "low",
+    "operational_impact": "LOW - Achievable operational goals",
+    "operations_areas": [
+      "Deliverables",
+      "Maintenance",
+      "Timeline & Schedule",
+      "Uptime & Availability"
+    ]
+  },
+  "new_keywords": {
+    "keywords": [
+      "sla",
+      "service level",
+      "timeline",
+      "milestone",
+      "deliverable",
+      "performance",
+      "response time",
+      "availability",
+      "maintenance",
+      "deadline",
+      "uptime"
+    ],
+    "chunks_retrieved": 23,
+    "clauses_extracted": 4,
+    "confidence": 0.76,
+    "risk_level": "low",
+    "operational_impact": "LOW - Achievable operational goals",
+    "operations_areas": [
+      "Deliverables",
+      "Maintenance",
+      "Timeline & Schedule",
+      "Uptime & Availability"
+    ],
+    "uptime_clauses_found": 1
+  },
+  "changes": {
+    "clause_difference": 1,
+    "confidence_change": 4.0000000000000036,
+    "risk_level_changed": false,
+    "new_areas_identified": []
+  },
+  "observations": [
+    "Adding 'uptime' keyword found 1 uptime-related clause(s)",
+    "Uptime clauses define service availability commitments",
+    "Total clauses INCREASED by 1 (33.3% increase)",
+    "More chunks retrieved with 'uptime' keyword",
+    "Confidence INCREASED by 4.0%"
+  ]
+}

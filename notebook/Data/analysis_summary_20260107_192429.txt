@@ -1,0 +1,27 @@
+
+CONTRACT ANALYSIS SUMMARY REPORT
+======================================================================
+
+Analysis Date: 2026-01-07T19:24:13.913980
+
+OVERALL RISK ASSESSMENT
+======================================================================
+Overall Risk Level: MEDIUM-HIGH
+Total Clauses Analyzed: 18
+Average Confidence: 85%
+
+INDIVIDUAL AGENT RISKS
+======================================================================
+LEGAL: LOW (4 clauses, 80% confidence)
+COMPLIANCE: LOW (5 clauses, 89% confidence)
+FINANCE: HIGH (6 clauses, 98% confidence)
+OPERATIONS: LOW (3 clauses, 72% confidence)
+
+RECOMMENDATIONS
+======================================================================
+
+1. [HIGH] Overall
+   Comprehensive legal and compliance review required before contract execution
+
+2. [HIGH] Finance
+   Finance analysis identified high risk - immediate review of 6 clauses required

@@ -1,0 +1,69 @@
+{
+  "agent_name": "Compliance Agent - Dynamic",
+  "agent_type": "Compliance",
+  "clause_type": "Compliance",
+  "extracted_clauses": [
+    "DATA PROTECTION: Must comply with GDPR requirements.",
+    "AUDIT: Annual audits required for regulatory compliance.",
+    "SECURITY: All data must be encrypted and secure.",
+    "CERTIFICATION: ISO 27001 certification mandatory."
+  ],
+  "risk_level": "high",
+  "confidence": 0.95,
+  "evidence": [
+    "DATA PROTECTION: Must comply with GDPR requirements.",
+    "AUDIT: Annual audits required for regulatory compliance.",
+    "SECURITY: All data must be encrypted and secure.",
+    "CERTIFICATION: ISO 27001 certification mandatory."
+  ],
+  "detected_categories": [
+    "audit",
+    "certification",
+    "gdpr",
+    "regulatory",
+    "security"
+  ],
+  "source_tracking": [
+    {
+      "clause": "DATA PROTECTION: Must comply with GDPR requirements.",
+      "category": "gdpr",
+      "source_info": {
+        "source_file": "compliance_contract.txt",
+        "line_number": 2,
+        "section": "Unknown Section",
+        "original_line": "DATA PROTECTION: Must comply with GDPR requirements."
+      }
+    },
+    {
+      "clause": "AUDIT: Annual audits required for regulatory compliance.",
+      "category": "regulatory",
+      "source_info": {
+        "source_file": "compliance_contract.txt",
+        "line_number": 3,
+        "section": "Unknown Section",
+        "original_line": "AUDIT: Annual audits required for regulatory compliance."
+      }
+    },
+    {
+      "clause": "SECURITY: All data must be encrypted and secure.",
+      "category": "security",
+      "source_info": {
+        "source_file": "compliance_contract.txt",
+        "line_number": 4,
+        "section": "Unknown Section",
+        "original_line": "SECURITY: All data must be encrypted and secure."
+      }
+    },
+    {
+      "clause": "CERTIFICATION: ISO 27001 certification mandatory.",
+      "category": "certification",
+      "source_info": {
+        "source_file": "compliance_contract.txt",
+        "line_number": 5,
+        "section": "Unknown Section",
+        "original_line": "CERTIFICATION: ISO 27001 certification mandatory."
+      }
+    }
+  ],
+  "timestamp": "2025-12-26T20:12:02.207558"
+}

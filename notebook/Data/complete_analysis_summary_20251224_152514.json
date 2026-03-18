@@ -1,0 +1,72 @@
+{
+  "report_metadata": {
+    "generated_date": "2025-12-24T15:25:14.139865",
+    "report_type": "Complete Contract Analysis Summary",
+    "agents_analyzed": [
+      "Finance Agent",
+      "Operations Agent"
+    ]
+  },
+  "finance_analysis": {
+    "original_agent": {
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ],
+      "grounding_score": "100%"
+    },
+    "student_agent": {
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ],
+      "grounding_score": "100%"
+    }
+  },
+  "operations_analysis": {
+    "original_agent": {
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "deliverables",
+        "milestones",
+        "obligations",
+        "performance",
+        "timelines"
+      ],
+      "grounding_score": "100%"
+    },
+    "student_agent": {
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "deliverables",
+        "milestones",
+        "obligations",
+        "performance",
+        "timelines"
+      ],
+      "grounding_score": "100%"
+    }
+  },
+  "overall_rag_compliance": {
+    "all_agents_grounded": true,
+    "finance_grounding": "100%",
+    "operations_grounding": "100%",
+    "conclusion": "All extracted clauses are from RAG knowledge base only"
+  }
+}

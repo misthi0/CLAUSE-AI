@@ -1,0 +1,17 @@
+{
+  "clause_type": "Termination",
+  "extracted_clauses": [
+    "SERVICE AGREEMENT\n\n1.",
+    "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+    "Either party may terminate this Agreement immediately if the other party materially breaches any term.",
+    "Scheduled maintenance windows require 48 hours notice."
+  ],
+  "risk_level": "medium",
+  "confidence": 0.8066661924123764,
+  "evidence": [
+    "SERVICE AGREEMENT\n\n1.",
+    "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+    "Either party may terminate this Agreement immediately if the other party materially breaches any term.",
+    "Scheduled maintenance windows require 48 hours notice."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "agent_name": "Legal Agent - Dynamic",
+  "agent_type": "Legal",
+  "clause_type": "Legal",
+  "extracted_clauses": [
+    "TERMINATION: Either party may terminate with 60 days notice.",
+    "GOVERNING LAW: This agreement shall be governed by Delaware law.",
+    "INDEMNIFICATION: Each party shall indemnify the other.",
+    "LIABILITY: Liability limited to fees paid."
+  ],
+  "risk_level": "high",
+  "confidence": 0.9,
+  "evidence": [
+    "TERMINATION: Either party may terminate with 60 days notice.",
+    "GOVERNING LAW: This agreement shall be governed by Delaware law.",
+    "INDEMNIFICATION: Each party shall indemnify the other.",
+    "LIABILITY: Liability limited to fees paid."
+  ],
+  "detected_categories": [
+    "governing_law",
+    "indemnity",
+    "liability",
+    "termination"
+  ],
+  "source_tracking": [
+    {
+      "clause": "TERMINATION: Either party may terminate with 60 days notice.",
+      "category": "termination",
+      "source_info": {
+        "source_file": "legal_contract.txt",
+        "line_number": 2,
+        "section": "Unknown Section",
+        "original_line": "TERMINATION: Either party may terminate with 60 days notice."
+      }
+    },
+    {
+      "clause": "GOVERNING LAW: This agreement shall be governed by Delaware law.",
+      "category": "governing_law",
+      "source_info": {
+        "source_file": "legal_contract.txt",
+        "line_number": 3,
+        "section": "Unknown Section",
+        "original_line": "GOVERNING LAW: This agreement shall be governed by Delaware law."
+      }
+    },
+    {
+      "clause": "INDEMNIFICATION: Each party shall indemnify the other.",
+      "category": "liability",
+      "source_info": {
+        "source_file": "legal_contract.txt",
+        "line_number": 4,
+        "section": "Unknown Section",
+        "original_line": "INDEMNIFICATION: Each party shall indemnify the other."
+      }
+    },
+    {
+      "clause": "LIABILITY: Liability limited to fees paid.",
+      "category": "liability",
+      "source_info": {
+        "source_file": "legal_contract.txt",
+        "line_number": 5,
+        "section": "Unknown Section",
+        "original_line": "LIABILITY: Liability limited to fees paid."
+      }
+    }
+  ],
+  "timestamp": "2025-12-26T20:12:02.207516"
+}

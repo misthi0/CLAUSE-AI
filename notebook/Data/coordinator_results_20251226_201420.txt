@@ -1,0 +1,70 @@
+======================================================================
+COORDINATOR EXECUTION REPORT
+======================================================================
+
+Generated: 2025-12-26 20:14:20
+Total Queries: 5
+
+======================================================================
+QUERY 1
+======================================================================
+Query: What are the payment penalties?
+Routed To: Finance
+
+Finance Agent:
+   Risk: high
+   Clauses: 3
+   Categories: fees, late, payment, penalty
+
+======================================================================
+QUERY 2
+======================================================================
+Query: Show me the project milestones and timeline
+Routed To: Operations
+
+Operations Agent:
+   Risk: high
+   Clauses: 4
+   Categories: deliverables, milestones, obligations, timelines
+
+======================================================================
+QUERY 3
+======================================================================
+Query: What is the indemnity clause?
+Routed To: Legal
+
+Legal Agent:
+   Risk: high
+   Clauses: 4
+   Categories: governing_law, indemnity, liability, termination
+
+======================================================================
+QUERY 4
+======================================================================
+Query: Are there any GDPR compliance requirements?
+Routed To: Compliance
+
+Compliance Agent:
+   Risk: high
+   Clauses: 4
+   Categories: audit, certification, gdpr, regulatory, security
+
+======================================================================
+QUERY 5
+======================================================================
+Query: What are the termination terms and payment obligations?
+Routed To: Legal, Finance
+
+Legal Agent:
+   Risk: high
+   Clauses: 4
+   Categories: governing_law, indemnity, liability, termination
+
+Finance Agent:
+   Risk: high
+   Clauses: 3
+   Categories: fees, late, payment, penalty
+
+======================================================================
+END OF REPORT
+======================================================================

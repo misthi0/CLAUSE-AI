@@ -1,0 +1,75 @@
+{
+  "pipeline_metadata": {
+    "execution_date": "2026-01-07T19:17:51.717128",
+    "query_template": "Identify clauses related to:\n- Service Level Agreements (SLAs)\n- Delivery timelines and schedules\n- Project milestones\n- Performance metrics and KPIs\n- Uptime guarantees\n- Response time requirements\n- Deliverables and outputs\n- Operational requirements\n- Service availability\n- Maintenance windows\n",
+    "keywords_used": [
+      "sla",
+      "service level",
+      "timeline",
+      "milestone",
+      "deliverable",
+      "performance",
+      "response time",
+      "availability",
+      "maintenance",
+      "deadline"
+    ],
+    "execution_time": 0.0005860328674316406
+  },
+  "retrieval_results": {
+    "total_chunks_retrieved": 19,
+    "chunks_used": 5,
+    "retrieval_metadata": {
+      "total_chunks_retrieved": 19,
+      "chunks_used": 5,
+      "total_relevance_score": 9,
+      "keywords_used": [
+        "sla",
+        "service level",
+        "timeline",
+        "milestone",
+        "deliverable",
+        "performance",
+        "response time",
+        "availability",
+        "maintenance",
+        "deadline"
+      ]
+    }
+  },
+  "agent_analysis": {
+    "clause_type": "Operations",
+    "extracted_clauses": [
+      "System availability shall be measured monthly and exclude scheduled maintenance windows.",
+      "All deliverables must meet the timeline specified in the project schedule.",
+      "Delays in deliverable submission may result in project timeline adjustments and potential penalties."
+    ],
+    "risk_level": "low",
+    "confidence": 0.72,
+    "evidence": [
+      "System availability shall be measured monthly and exclude scheduled maintenance windows.",
+      "All deliverables must meet the timeline specified in the project schedule.",
+      "Delays in deliverable submission may result in project timeline adjustments and potential penalties."
+    ]
+  },
+  "risk_summary": {
+    "overall_risk": "low",
+    "confidence_score": 0.72,
+    "total_clauses_identified": 3,
+    "operations_areas": [
+      "Deliverables",
+      "Maintenance",
+      "Timeline & Schedule",
+      "Uptime & Availability"
+    ],
+    "risk_factors": [
+      "Well-defined operational terms",
+      "Strong uptime commitments in place"
+    ],
+    "recommendations": [
+      "Maintain operational excellence"
+    ],
+    "operational_impact": "LOW - Achievable operational goals"
+  },
+  "raw_context": "System availability shall be measured monthly and exclude scheduled maintenance windows.\n\nMILESTONES AND TIMELINE\n\nAll deliverables must meet the timeline specified in the project schedule.\n\nDelays in deliverable submission may result in project timeline adjustments and potential penalties.\n\nSERVICE LEVEL AGREEMENT"
+}

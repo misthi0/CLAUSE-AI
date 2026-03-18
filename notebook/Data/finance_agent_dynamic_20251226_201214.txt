@@ -1,0 +1,36 @@
+======================================================================
+FINANCE AGENT ANALYSIS REPORT
+======================================================================
+
+Agent: Finance Agent - Dynamic
+Risk Level: HIGH
+Confidence: 90%
+Clauses Found: 3
+
+EXTRACTED CLAUSES:
+----------------------------------------------------------------------
+
+1. PAYMENT TERMS: Payment due within 30 days of invoice.
+
+2. Late payments incur 5% penalty per month.
+
+3. All fees must be paid in full.
+
+======================================================================
+SOURCE TRACKING:
+======================================================================
+
+Clause: PAYMENT TERMS: Payment due within 30 days of invoice....
+   Source: finance_contract.txt
+   Line: 2
+   Section: Unknown Section
+
+Clause: Late payments incur 5% penalty per month....
+   Source: finance_contract.txt
+   Line: 3
+   Section: Unknown Section
+
+Clause: All fees must be paid in full....
+   Source: finance_contract.txt
+   Line: 4
+   Section: Unknown Section

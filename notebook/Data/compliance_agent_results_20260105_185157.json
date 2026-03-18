@@ -1,0 +1,15 @@
+{
+  "clause_type": "Compliance",
+  "extracted_clauses": [
+    "DATA PROTECTION\nThe Contractor shall comply with all applicable data protection laws including GDPR.",
+    "All personal data must be encrypted and stored securely.",
+    "Data breach notification must be provided within 72 hours."
+  ],
+  "risk_level": "high",
+  "confidence": 0.8018569986025492,
+  "evidence": [
+    "DATA PROTECTION\nThe Contractor shall comply with all applicable data protection laws including GDPR.",
+    "All personal data must be encrypted and stored securely.",
+    "Data breach notification must be provided within 72 hours."
+  ]
+}

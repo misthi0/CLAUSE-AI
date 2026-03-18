@@ -1,0 +1,43 @@
+======================================================================
+COMPLIANCE AGENT ANALYSIS REPORT
+======================================================================
+
+Agent: Compliance Agent - Dynamic
+Risk Level: HIGH
+Confidence: 95%
+Clauses Found: 4
+
+EXTRACTED CLAUSES:
+----------------------------------------------------------------------
+
+1. DATA PROTECTION: Must comply with GDPR requirements.
+
+2. AUDIT: Annual audits required for regulatory compliance.
+
+3. SECURITY: All data must be encrypted and secure.
+
+4. CERTIFICATION: ISO 27001 certification mandatory.
+
+======================================================================
+SOURCE TRACKING:
+======================================================================
+
+Clause: DATA PROTECTION: Must comply with GDPR requirements....
+   Source: compliance_contract.txt
+   Line: 2
+   Section: Unknown Section
+
+Clause: AUDIT: Annual audits required for regulatory compliance....
+   Source: compliance_contract.txt
+   Line: 3
+   Section: Unknown Section
+
+Clause: SECURITY: All data must be encrypted and secure....
+   Source: compliance_contract.txt
+   Line: 4
+   Section: Unknown Section
+
+Clause: CERTIFICATION: ISO 27001 certification mandatory....
+   Source: compliance_contract.txt
+   Line: 5
+   Section: Unknown Section

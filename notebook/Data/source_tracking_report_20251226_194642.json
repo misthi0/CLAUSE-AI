@@ -1,0 +1,248 @@
+{
+  "report_metadata": {
+    "generated_date": "2025-12-26T19:46:42.769705",
+    "report_type": "Complete Source Tracking Report",
+    "rag_files_analyzed": [
+      "payment_terms_contract.txt",
+      "service_level_agreement.txt"
+    ]
+  },
+  "finance_source_tracking": {
+    "source_file": "payment_terms_contract.txt",
+    "total_clauses": 9,
+    "risk_level": "high",
+    "tracked_extractions": [
+      {
+        "clause": "PAYMENT TERMS AND CONDITIONS\n\n1.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 2,
+          "section": "PAYMENT TERMS AND CONDITIONS",
+          "match_confidence": 0.8,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "PAYMENT TERMS AND CONDITIONS"
+        }
+      },
+      {
+        "clause": "Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 4,
+          "section": "1. Payment Schedule: Client shall pay Contractor within 30 days of invoice date.",
+          "character_start": 34,
+          "character_end": 110,
+          "original_line": "1. Payment Schedule: Client shall pay Contractor within 30 days of invoice date."
+        }
+      },
+      {
+        "clause": "Late Payment: Any payment not received within the specified period will be \nsubject to a late fee of 5% per month on the outstanding balance.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 6,
+          "section": "2. Late Payment: Any payment not received within the specified period will be",
+          "match_confidence": 0.52,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "2. Late Payment: Any payment not received within the specified period will be "
+        }
+      },
+      {
+        "clause": "Service Fees: A service fee of $500 will be charged for each deliverable.",
+        "category": "fees",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 9,
+          "section": "3. Service Fees: A service fee of $500 will be charged for each deliverable.",
+          "character_start": 262,
+          "character_end": 334,
+          "original_line": "3. Service Fees: A service fee of $500 will be charged for each deliverable."
+        }
+      },
+      {
+        "clause": "Penalties: Failure to meet payment obligations will result in penalties \nequal to 10% of the total contract value.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 11,
+          "section": "4. Penalties: Failure to meet payment obligations will result in penalties",
+          "match_confidence": 0.59,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "4. Penalties: Failure to meet payment obligations will result in penalties "
+        }
+      },
+      {
+        "clause": "Invoicing: Invoices will be issued monthly and must be paid in full before \nthe next billing cycle.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 14,
+          "section": "5. Invoicing: Invoices will be issued monthly and must be paid in full before",
+          "match_confidence": 0.75,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "5. Invoicing: Invoices will be issued monthly and must be paid in full before "
+        }
+      },
+      {
+        "clause": "Financial Liability: The Contractor shall not be held financially liable \nfor delays caused by the Client.",
+        "category": "liability",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 17,
+          "section": "6. Financial Liability: The Contractor shall not be held financially liable",
+          "match_confidence": 0.67,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "6. Financial Liability: The Contractor shall not be held financially liable "
+        }
+      },
+      {
+        "clause": "Payment Method: All payments must be made via wire transfer or certified check.",
+        "category": "payment",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 20,
+          "section": "7. Payment Method: All payments must be made via wire transfer or certified check.",
+          "character_start": 674,
+          "character_end": 752,
+          "original_line": "7. Payment Method: All payments must be made via wire transfer or certified check."
+        }
+      },
+      {
+        "clause": "Overdue Amounts: Amounts overdue by more than 60 days will incur an additional \npenalty of 15% and may result in suspension of services.",
+        "category": "late",
+        "source_info": {
+          "source_file": "payment_terms_contract.txt",
+          "line_number": 22,
+          "section": "8. Overdue Amounts: Amounts overdue by more than 60 days will incur an additional",
+          "match_confidence": 0.57,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "8. Overdue Amounts: Amounts overdue by more than 60 days will incur an additional "
+        }
+      }
+    ]
+  },
+  "operations_source_tracking": {
+    "source_file": "service_level_agreement.txt",
+    "total_clauses": 9,
+    "risk_level": "high",
+    "tracked_extractions": [
+      {
+        "clause": "SERVICE LEVEL AGREEMENT\n\n1.",
+        "category": "performance",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 2,
+          "section": "SERVICE LEVEL AGREEMENT",
+          "match_confidence": 0.75,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "SERVICE LEVEL AGREEMENT"
+        }
+      },
+      {
+        "clause": "Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.",
+        "category": "deliverables",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 4,
+          "section": "1. Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.",
+          "character_start": 29,
+          "character_end": 124,
+          "original_line": "1. Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards."
+        }
+      },
+      {
+        "clause": "Timeline: All deliverables must be completed within 90 days of project initiation.",
+        "category": "deliverables",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 6,
+          "section": "2. Timeline: All deliverables must be completed within 90 days of project initiation.",
+          "character_start": 130,
+          "character_end": 211,
+          "original_line": "2. Timeline: All deliverables must be completed within 90 days of project initiation."
+        }
+      },
+      {
+        "clause": "Milestones: Project shall be completed in three phases:\n   - Phase 1: Requirements gathering (30 days)\n   - Phase 2: Implementation (45 days)\n   - Phase 3: Testing and deployment (15 days)\n\n4.",
+        "category": "milestones",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 8,
+          "section": "3. Milestones: Project shall be completed in three phases:",
+          "match_confidence": 0.33,
+          "character_start": -1,
+          "character_end": -1,
+          "original_line": "3. Milestones: Project shall be completed in three phases:"
+        }
+      },
+      {
+        "clause": "Service Obligations: Contractor must maintain 99.",
+        "category": "obligations",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 13,
+          "section": "4. Service Obligations: Contractor must maintain 99.9% uptime for all systems.",
+          "character_start": 410,
+          "character_end": 458,
+          "original_line": "4. Service Obligations: Contractor must maintain 99.9% uptime for all systems."
+        }
+      },
+      {
+        "clause": "Performance Standards: Response time for critical issues shall not exceed 2 hours.",
+        "category": "obligations",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 15,
+          "section": "5. Performance Standards: Response time for critical issues shall not exceed 2 hours.",
+          "character_start": 490,
+          "character_end": 571,
+          "original_line": "5. Performance Standards: Response time for critical issues shall not exceed 2 hours."
+        }
+      },
+      {
+        "clause": "Quality Standards: All deliverables must meet ISO 9001 quality standards.",
+        "category": "deliverables",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 17,
+          "section": "6. Quality Standards: All deliverables must meet ISO 9001 quality standards.",
+          "character_start": 577,
+          "character_end": 649,
+          "original_line": "6. Quality Standards: All deliverables must meet ISO 9001 quality standards."
+        }
+      },
+      {
+        "clause": "Reporting: Monthly performance reports must be submitted by the 5th business day of each month.",
+        "category": "obligations",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 19,
+          "section": "7. Reporting: Monthly performance reports must be submitted by the 5th business day of each month.",
+          "character_start": 655,
+          "character_end": 749,
+          "original_line": "7. Reporting: Monthly performance reports must be submitted by the 5th business day of each month."
+        }
+      },
+      {
+        "clause": "Support Obligations: Contractor shall provide 24/7 technical support for production systems.",
+        "category": "obligations",
+        "source_info": {
+          "source_file": "service_level_agreement.txt",
+          "line_number": 21,
+          "section": "8. Support Obligations: Contractor shall provide 24/7 technical support for production systems.",
+          "character_start": 755,
+          "character_end": 846,
+          "original_line": "8. Support Obligations: Contractor shall provide 24/7 technical support for production systems."
+        }
+      }
+    ]
+  }
+}

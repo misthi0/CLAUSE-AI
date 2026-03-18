@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "generated_date": "2026-01-02T12:51:58.859444",
+    "report_type": "Multi-Agent Graph Execution",
+    "version": "1.0"
+  },
+  "original_execution": {
+    "execution_order": [
+      "legal_agent",
+      "compliance_agent",
+      "finance_agent",
+      "operations_agent"
+    ],
+    "total_clauses": 23,
+    "total_categories": 18,
+    "execution_time": 0.000668,
+    "final_report": {
+      "query": "Review termination, GDPR compliance, payment terms, and SLAs",
+      "total_agents_executed": 1,
+      "execution_sequence": [
+        "operations_agent"
+      ],
+      "total_clauses": 23,
+      "total_categories": 5,
+      "agent_summaries": {
+        "legal": {
+          "risk": "high",
+          "clauses": 4
+        },
+        "compliance": {
+          "risk": "high",
+          "clauses": 5
+        },
+        "finance": {
+          "risk": "high",
+          "clauses": 5
+        },
+        "operations": {
+          "risk": "high",
+          "clauses": 9
+        }
+      }
+    }
+  },
+  "modified_order_execution": {
+    "execution_order": [
+      "finance_agent",
+      "operations_agent",
+      "legal_agent",
+      "compliance_agent"
+    ],
+    "total_clauses": 23,
+    "total_categories": 18,
+    "execution_time": 0.001397
+  },
+  "no_compliance_execution": {
+    "execution_order": [
+      "legal_agent",
+      "finance_agent",
+      "operations_agent"
+    ],
+    "total_clauses": 18,
+    "total_categories": 13,
+    "execution_time": 0.000453,
+    "missing_agent": "compliance_agent"
+  },
+  "student_tasks": {
+    "task1": "Changed execution order: Finance \u2192 Operations \u2192 Legal \u2192 Compliance",
+    "task2": "Removed compliance agent from graph",
+    "task3": "Observed state changes: reduced clauses, missing categories, faster execution"
+  }
+}

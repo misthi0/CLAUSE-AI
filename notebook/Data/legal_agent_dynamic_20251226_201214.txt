@@ -1,0 +1,43 @@
+======================================================================
+LEGAL AGENT ANALYSIS REPORT
+======================================================================
+
+Agent: Legal Agent - Dynamic
+Risk Level: HIGH
+Confidence: 90%
+Clauses Found: 4
+
+EXTRACTED CLAUSES:
+----------------------------------------------------------------------
+
+1. TERMINATION: Either party may terminate with 60 days notice.
+
+2. GOVERNING LAW: This agreement shall be governed by Delaware law.
+
+3. INDEMNIFICATION: Each party shall indemnify the other.
+
+4. LIABILITY: Liability limited to fees paid.
+
+======================================================================
+SOURCE TRACKING:
+======================================================================
+
+Clause: TERMINATION: Either party may terminate with 60 days notice....
+   Source: legal_contract.txt
+   Line: 2
+   Section: Unknown Section
+
+Clause: GOVERNING LAW: This agreement shall be governed by Delaware ...
+   Source: legal_contract.txt
+   Line: 3
+   Section: Unknown Section
+
+Clause: INDEMNIFICATION: Each party shall indemnify the other....
+   Source: legal_contract.txt
+   Line: 4
+   Section: Unknown Section
+
+Clause: LIABILITY: Liability limited to fees paid....
+   Source: legal_contract.txt
+   Line: 5
+   Section: Unknown Section

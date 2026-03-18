@@ -1,0 +1,43 @@
+======================================================================
+OPERATIONS AGENT ANALYSIS REPORT
+======================================================================
+
+Agent: Operations Agent - Dynamic
+Risk Level: HIGH
+Confidence: 90%
+Clauses Found: 4
+
+EXTRACTED CLAUSES:
+----------------------------------------------------------------------
+
+1. DELIVERABLES: Weekly reports required.
+
+2. Timeline: 90 days for project completion.
+
+3. Milestones: Phase 1 (30 days), Phase 2 (60 days).
+
+4. 9% uptime required.
+
+======================================================================
+SOURCE TRACKING:
+======================================================================
+
+Clause: DELIVERABLES: Weekly reports required....
+   Source: operations_contract.txt
+   Line: 2
+   Section: Unknown Section
+
+Clause: Timeline: 90 days for project completion....
+   Source: operations_contract.txt
+   Line: 3
+   Section: Unknown Section
+
+Clause: Milestones: Phase 1 (30 days), Phase 2 (60 days)....
+   Source: operations_contract.txt
+   Line: 4
+   Section: Unknown Section
+
+Clause: 9% uptime required....
+   Source: operations_contract.txt
+   Line: 5
+   Section: Unknown Section

@@ -1,0 +1,90 @@
+{
+  "report_metadata": {
+    "generated_date": "2025-12-24T15:32:36.076298",
+    "report_type": "Complete Verified Contract Analysis",
+    "verification_status": "PASSED",
+    "rag_compliance": "100%"
+  },
+  "finance_analysis": {
+    "original_agent": {
+      "agent_name": "Finance Agent - Payment & Penalty Analysis",
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ],
+      "grounding_score": 1.0,
+      "source_verified": 1.0
+    },
+    "student_agent": {
+      "agent_name": "Student Finance Agent - Late Fee & Penalty Focus",
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "penalty",
+        "liability",
+        "fees",
+        "late",
+        "payment"
+      ],
+      "grounding_score": 1.0,
+      "source_verified": 1.0
+    },
+    "cross_verification": {
+      "consistency_score": 1.0,
+      "common_clauses": 9,
+      "discrepancies": 0
+    }
+  },
+  "operations_analysis": {
+    "original_agent": {
+      "agent_name": "Operations Agent - Obligations & Execution Risk",
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "deliverables",
+        "milestones",
+        "obligations",
+        "performance",
+        "timelines"
+      ],
+      "grounding_score": 1.0,
+      "source_verified": 1.0
+    },
+    "student_agent": {
+      "agent_name": "Student Operations Agent - Timeline & Milestone Focus",
+      "risk_level": "high",
+      "confidence": 0.95,
+      "clauses_extracted": 9,
+      "categories": [
+        "deliverables",
+        "milestones",
+        "obligations",
+        "performance",
+        "timelines"
+      ],
+      "grounding_score": 1.0,
+      "source_verified": 1.0
+    },
+    "cross_verification": {
+      "consistency_score": 1.0,
+      "common_clauses": 9,
+      "discrepancies": 0
+    }
+  },
+  "verification_summary": {
+    "all_outputs_grounded": true,
+    "all_outputs_verified": true,
+    "finance_grounding": "100%",
+    "operations_grounding": "100%",
+    "cross_verification_passed": true,
+    "rag_compliance_status": "PASSED"
+  }
+}

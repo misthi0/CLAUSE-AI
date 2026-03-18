@@ -1,0 +1,19 @@
+{
+  "clause_type": "SLA",
+  "extracted_clauses": [
+    "SERVICE AGREEMENT\n\n1.",
+    "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+    "SERVICE LEVEL AGREEMENT\nThe Contractor guarantees 99.9% uptime for all services.",
+    "Response time for critical issues: within 1 hour.",
+    "Scheduled maintenance windows require 48 hours notice."
+  ],
+  "risk_level": "low",
+  "confidence": 0.8531167507171631,
+  "evidence": [
+    "SERVICE AGREEMENT\n\n1.",
+    "TERMINATION\nThis Service Agreement may be terminated by either party with 30 days written notice.",
+    "SERVICE LEVEL AGREEMENT\nThe Contractor guarantees 99.9% uptime for all services.",
+    "Response time for critical issues: within 1 hour.",
+    "Scheduled maintenance windows require 48 hours notice."
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "agent_name": "Operations Agent - Dynamic",
+  "agent_type": "Operations",
+  "clause_type": "Operations",
+  "extracted_clauses": [
+    "DELIVERABLES: Weekly reports required.",
+    "Timeline: 90 days for project completion.",
+    "Milestones: Phase 1 (30 days), Phase 2 (60 days).",
+    "9% uptime required."
+  ],
+  "risk_level": "high",
+  "confidence": 0.9,
+  "evidence": [
+    "DELIVERABLES: Weekly reports required.",
+    "Timeline: 90 days for project completion.",
+    "Milestones: Phase 1 (30 days), Phase 2 (60 days).",
+    "9% uptime required."
+  ],
+  "detected_categories": [
+    "deliverables",
+    "milestones",
+    "obligations",
+    "timelines"
+  ],
+  "source_tracking": [
+    {
+      "clause": "DELIVERABLES: Weekly reports required.",
+      "category": "deliverables",
+      "source_info": {
+        "source_file": "operations_contract.txt",
+        "line_number": 2,
+        "section": "Unknown Section",
+        "original_line": "DELIVERABLES: Weekly reports required."
+      }
+    },
+    {
+      "clause": "Timeline: 90 days for project completion.",
+      "category": "timelines",
+      "source_info": {
+        "source_file": "operations_contract.txt",
+        "line_number": 3,
+        "section": "Unknown Section",
+        "original_line": "Timeline: 90 days for project completion."
+      }
+    },
+    {
+      "clause": "Milestones: Phase 1 (30 days), Phase 2 (60 days).",
+      "category": "milestones",
+      "source_info": {
+        "source_file": "operations_contract.txt",
+        "line_number": 4,
+        "section": "Unknown Section",
+        "original_line": "Milestones: Phase 1 (30 days), Phase 2 (60 days)."
+      }
+    },
+    {
+      "clause": "9% uptime required.",
+      "category": "obligations",
+      "source_info": {
+        "source_file": "operations_contract.txt",
+        "line_number": 5,
+        "section": "Unknown Section",
+        "original_line": "SLA: 99.9% uptime required."
+      }
+    }
+  ],
+  "timestamp": "2025-12-26T20:12:02.207461"
+}

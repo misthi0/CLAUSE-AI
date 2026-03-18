@@ -1,0 +1,76 @@
+{
+  "pipeline_metadata": {
+    "execution_date": "2026-01-07T19:12:33.802235",
+    "query_template": "Identify clauses related to:\n- Termination rights and conditions\n- Breach of contract\n- Governing law and jurisdiction\n- Liability and limitations\n- Indemnification obligations\n- Force majeure\n- Dispute resolution\n- Intellectual property rights\n- Confidentiality and non-disclosure\n",
+    "keywords_used": [
+      "termination",
+      "breach",
+      "governing law",
+      "jurisdiction",
+      "liability",
+      "indemnify",
+      "intellectual property",
+      "confidential",
+      "force majeure",
+      "dispute",
+      "arbitration"
+    ],
+    "execution_time": 0.0007951259613037109
+  },
+  "retrieval_results": {
+    "total_chunks_retrieved": 18,
+    "chunks_used": 5,
+    "retrieval_metadata": {
+      "total_chunks_retrieved": 18,
+      "chunks_used": 5,
+      "total_relevance_score": 8,
+      "keywords_used": [
+        "termination",
+        "breach",
+        "governing law",
+        "jurisdiction",
+        "liability",
+        "indemnify",
+        "intellectual property",
+        "confidential",
+        "force majeure",
+        "dispute",
+        "arbitration"
+      ]
+    }
+  },
+  "agent_analysis": {
+    "clause_type": "Legal",
+    "extracted_clauses": [
+      "Each party agrees to indemnify, defend, and hold harmless the other party from and against any and",
+      "(a) Breach of any representation, warranty, or obligation under this Agreement",
+      "If negotiations fail, disputes shall be resolved through binding arbitration in accordance with the",
+      "(a) Materially breaches any term of this Agreement and fails to cure such breach within 15 days"
+    ],
+    "risk_level": "low",
+    "confidence": 0.8,
+    "evidence": [
+      "Each party agrees to indemnify, defend, and hold harmless the other party from and against any and",
+      "(a) Breach of any representation, warranty, or obligation under this Agreement",
+      "If negotiations fail, disputes shall be resolved through binding arbitration in accordance with the"
+    ]
+  },
+  "risk_summary": {
+    "overall_risk": "low",
+    "confidence_score": 0.8,
+    "total_clauses_identified": 4,
+    "legal_areas": [
+      "Dispute Resolution",
+      "Breach of Contract",
+      "Indemnification"
+    ],
+    "risk_factors": [
+      "Standard legal terms"
+    ],
+    "recommendations": [
+      "Maintain contractual compliance"
+    ],
+    "legal_impact": "LOW - Favorable legal conditions"
+  },
+  "raw_context": "GOVERNING LAW AND JURISDICTION\n\nEach party agrees to indemnify, defend, and hold harmless the other party from and against any and \nall claims, damages, losses, and expenses arising from:\n(a) Breach of any representation, warranty, or obligation under this Agreement\n(b) Negligence or willful misconduct\n(c) Violation of applicable laws or regulations\n\nIf negotiations fail, disputes shall be resolved through binding arbitration in accordance with the \nrules of the American Arbitration Association.\n\nTERMINATION\n\nEither party may terminate this Agreement immediately if the other party:\n(a) Materially breaches any term of this Agreement and fails to cure such breach within 15 days\n(b) Becomes insolvent, bankrupt, or subject to bankruptcy proceedings\n(c) Ceases business operations"
+}

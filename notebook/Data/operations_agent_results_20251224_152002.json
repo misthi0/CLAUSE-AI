@@ -1,0 +1,55 @@
+{
+  "analysis_metadata": {
+    "analysis_date": "2025-12-24T15:20:02.079563",
+    "contract_length": 848,
+    "contract_type": "Service Level Agreement - Operations"
+  },
+  "original_agent": {
+    "agent_name": "Operations Agent - Obligations & Execution Risk",
+    "results": {
+      "clause_type": "Operations",
+      "extracted_clauses": [
+        "SERVICE LEVEL AGREEMENT\n\n1.",
+        "Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.",
+        "Timeline: All deliverables must be completed within 90 days of project initiation.",
+        "Milestones: Project shall be completed in three phases:\n   - Phase 1: Requirements gathering (30 days)\n   - Phase 2: Implementation (45 days)\n   - Phase 3: Testing and deployment (15 days)\n\n4.",
+        "Service Obligations: Contractor must maintain 99.",
+        "Performance Standards: Response time for critical issues shall not exceed 2 hours.",
+        "Quality Standards: All deliverables must meet ISO 9001 quality standards.",
+        "Reporting: Monthly performance reports must be submitted by the 5th business day of each month.",
+        "Support Obligations: Contractor shall provide 24/7 technical support for production systems."
+      ],
+      "risk_level": "high",
+      "confidence": 0.95,
+      "evidence": [
+        "SERVICE LEVEL AGREEMENT\n\n1.",
+        "Deliverables: Contractor shall deliver weekly status reports and monthly performance dashboards.",
+        "Timeline: All deliverables must be completed within 90 days of project initiation.",
+        "Milestones: Project shall be completed in three phases:\n   - Phase 1: Requirements gathering (30 days)\n   - Phase 2: Implementation (45 days)\n   - Phase 3: Testing and deployment (15 days)\n\n4.",
+        "Service Obligations: Contractor must maintain 99.",
+        "Performance Standards: Response time for critical issues shall not exceed 2 hours.",
+        "Quality Standards: All deliverables must meet ISO 9001 quality standards.",
+        "Reporting: Monthly performance reports must be submitted by the 5th business day of each month.",
+        "Support Obligations: Contractor shall provide 24/7 technical support for production systems."
+      ],
+      "detected_categories": [
+        "deliverables",
+        "milestones",
+        "obligations",
+        "performance",
+        "timelines"
+      ]
+    },
+    "grounding_validation": {
+      "is_grounded": true,
+      "grounding_score": 1.0,
+      "grounded_clauses": 9,
+      "hallucinated_clauses": 0
+    }
+  },
+  "rag_compliance": {
+    "all_outputs_grounded": true,
+    "grounding_score": "100%",
+    "note": "All extracted clauses are from the source contract (RAG knowledge base)"
+  }
+}
