@@ -1,0 +1,17 @@
+{
+  "clause_type": "Legal",
+  "extracted_clauses": [
+    "60 days written notice",
+    "laws of the State of Delaware",
+    "courts located in Wilmington, Delaware"
+  ],
+  "risk_level": "low",
+  "confidence": 0.9,
+  "evidence": [
+    "60 days written notice",
+    "laws of the State of Delaware",
+    "courts located in Wilmington, Delaware"
+  ],
+  "timestamp": "2025-12-23T14:03:22.898836",
+  "model": "Gemma 2B"
+}

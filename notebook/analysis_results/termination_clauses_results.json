@@ -1,0 +1,53 @@
+{
+  "query": "What are the termination clauses in these contracts?",
+  "timestamp": "2025-12-13T13:38:52.135925",
+  "num_results": 5,
+  "top_k": 5,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.751242638,
+      "chunk_id": "KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT_chunk_39",
+      "contract_id": "KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT",
+      "chunk_index": 39,
+      "filename": "KIROMICBIOPHARMA,INC_04_08_2020-EX-10.28-JOINT VENTURE AGREEMENT_cleaned.txt",
+      "text": "on termination of the contract, the agreement set forth in clause 5 (\"Intellectual property rights and prohibition of transfer to third parties\") and clause 6 (\"Economic rights\") will remain into force. 10. TERMINATION\n\nEach Parties shall have the right to terminate its obligations, if one of the fo"
+    },
+    {
+      "rank": 2,
+      "score": 0.727672577,
+      "chunk_id": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT_chunk_28",
+      "contract_id": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT",
+      "chunk_index": 28,
+      "filename": "MOSSIMOINC_04_14_2000-EX-10.14-ENDORSEMENT AGREEMENT_cleaned.txt",
+      "text": "m this Agreement, subject to the terms of this Agreement. Termination under the provisions of this section shall be without prejudice to any rights or claims which the terminating party may otherwise have against the defaulting party, and if Company is the defaulting party, Company shall be responsi"
+    },
+    {
+      "rank": 3,
+      "score": 0.716268539,
+      "chunk_id": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT_chunk_28",
+      "contract_id": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT",
+      "chunk_index": 28,
+      "filename": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT_cleaned.txt",
+      "text": "nt, Company shall be entitled to elect to terminate this agreement effective immediately upon providing to Contractor written notice of such termination, in which case Company shall have no obligation to pay any fees or other consideration to Contractor under this agreement or otherwise. (e) THE EXP"
+    },
+    {
+      "rank": 4,
+      "score": 0.715584755,
+      "chunk_id": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT_chunk_39",
+      "contract_id": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT",
+      "chunk_index": 39,
+      "filename": "MERITLIFEINSURANCECO_06_19_2020-EX-10.(XIV)-MASTER SERVICES AGREEMENT_cleaned.txt",
+      "text": "he effective date of such termination. Upon receipt of final payment Contractor shall provide to Company, and will assigns to Company, all right, title and interest to any Works in progress. 12. INTEGRATION. This Agreement, including The Mutual Non-Disclosure Agreement and, any Statements of Work en"
+    },
+    {
+      "rank": 5,
+      "score": 0.712504387,
+      "chunk_id": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement_chunk_218",
+      "contract_id": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement",
+      "chunk_index": 218,
+      "filename": "ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement_cleaned.txt",
+      "text": "termination, including the obligation to Manufacture and deliver the Product under Purchase Orders placed by Customer and accepted by Supplier prior to the effective date of expiration or earlier termination, and the obligation to pay Fees in respect thereof. In addition, the following provisions sh"
+    }
+  ]
+}

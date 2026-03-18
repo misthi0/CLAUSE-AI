@@ -1,0 +1,18 @@
+{
+  "clause_type": "Legal",
+  "extracted_clauses": [
+    "JURISDICTION"
+  ],
+  "risk_level": "low",
+  "confidence": 0.85,
+  "evidence": [
+    "Delaware",
+    "12 months preceding the claim"
+  ],
+  "validation_passed": false,
+  "similarity_scores": [
+    0.6061810255050659,
+    0.7032384276390076
+  ],
+  "timestamp": "2025-12-23T13:59:58.500701"
+}

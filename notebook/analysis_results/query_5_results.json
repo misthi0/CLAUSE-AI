@@ -1,0 +1,35 @@
+{
+  "query": "Dispute resolution and arbitration procedures",
+  "timestamp": "2025-12-13T13:40:16.828562",
+  "num_results": 3,
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.765306,
+      "chunk_id": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement_chunk_62",
+      "contract_id": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement",
+      "chunk_index": 62,
+      "filename": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement_cleaned.txt",
+      "text": "tion thereof. Prior to invoking arbitration, the parties will make a reasonable effort to settle any dispute in an informal and expeditious manner. The parties separately and specially agree that if either shall contend that this Agreement is invalid or that grounds exist for its rescission or cance"
+    },
+    {
+      "rank": 2,
+      "score": 0.754873753,
+      "chunk_id": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement_chunk_332",
+      "contract_id": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement",
+      "chunk_index": 332,
+      "filename": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement_cleaned.txt",
+      "text": "acknowledge that discussions between the Parties to resolve disputes are settlement discussions under applicable rules of evidence and without prejudice to either Party's legal position.\n\n13.3 Arbitration.\n\n(a) Any and all disputes that are not resolved pursuant to Section 13.2 shall be finally sett"
+    },
+    {
+      "rank": 3,
+      "score": 0.740379333,
+      "chunk_id": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT _chunk_319",
+      "contract_id": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT ",
+      "chunk_index": 319,
+      "filename": "Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT _cleaned.txt",
+      "text": "ature of arbitration, each party will, upon the written request of the other party, promptly provide the other with copies of documents relevant to the issues raised by the notice or the response, including those documents on which the producing party may rely in support of or in opposition to any c"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "query": "Intellectual property rights and ownership",
+  "timestamp": "2025-12-13T13:40:15.762377",
+  "num_results": 3,
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.784691811,
+      "chunk_id": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT_chunk_28",
+      "contract_id": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT",
+      "chunk_index": 28,
+      "filename": "BELLRINGBRANDS,INC_02_07_2020-EX-10.18-MASTER SUPPLY AGREEMENT_cleaned.txt",
+      "text": "ownership of all Intellectual Property Rights (as defined below): (1) owned or licensed by that Party prior to the commencement date of this Agreement; or (2) developed or acquired independently of this Agreement by that Party or its licensors other than in connection with this Agreement. 4.2 Owners"
+    },
+    {
+      "rank": 2,
+      "score": 0.750648499,
+      "chunk_id": "OTISWORLDWIDECORP_04_03_2020-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT by and among UNITED TECHNOLOGIES CORPORATION, OTIS WORLDWIDE CORPORATION and CARRIER ~1_chunk_6",
+      "contract_id": "OTISWORLDWIDECORP_04_03_2020-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT by and among UNITED TECHNOLOGIES CORPORATION, OTIS WORLDWIDE CORPORATION and CARRIER ~1",
+      "chunk_index": 6,
+      "filename": "OTISWORLDWIDECORP_04_03_2020-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT by and among UNITED TECHNOLOGIES CORPORATION, OTIS WORLDWIDE CORPORATION and CARRIER ~1_cleaned.txt",
+      "text": "urrently owners of, and in possession of, certain Intellectual Property Rights (as defined herein), which Intellectual Property Rights may have been developed or acquired by such Party independently, or jointly with either or both the other Parties, or assigned to it by either or both of the other P"
+    },
+    {
+      "rank": 3,
+      "score": 0.712032318,
+      "chunk_id": "NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement_chunk_85",
+      "contract_id": "NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement",
+      "chunk_index": 85,
+      "filename": "NlsPharmaceuticsLtd_20200228_F-1_EX-10.14_12029046_EX-10.14_Development Agreement_cleaned.txt",
+      "text": ", with the possibility of tech-transfer during the term of the Agreement. 13. Property rights to Intellectual Property Both Parties acknowledge that all Intellectual Property existing at the Effective Date shall be and remain the sole property of the Licensor. All right, title and interest in and to"
+    }
+  ]
+}

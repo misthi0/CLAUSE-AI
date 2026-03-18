@@ -1,0 +1,35 @@
+{
+  "query": "Payment terms and milestone conditions",
+  "timestamp": "2025-12-13T13:40:16.034126",
+  "num_results": 3,
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.705518723,
+      "chunk_id": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement_chunk_300",
+      "contract_id": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+      "chunk_index": 300,
+      "filename": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement_cleaned.txt",
+      "text": "(e) [***] [***] (f) [***] [***] (g) [***] [***] (h) [***] [***] (i) [***] [***] (j) [***] [***] (k) [***] [***] (l) [***] [***] 44\n\nSource: REVOLUTION MEDICINES, INC., S-1, 1/17/2020\n\nMilestone Event Milestone Payment (m) [***] [***] (n) [***] [***] (o) [***] [***] (p) [***] [***] In no event shall "
+    },
+    {
+      "rank": 2,
+      "score": 0.700925827,
+      "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT_chunk_160",
+      "contract_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+      "chunk_index": 160,
+      "filename": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT_cleaned.txt",
+      "text": "evelopment Milestone\"); provided always that each such payment shall be made only one time for each Collaboration Product regardless of how many times such Development Milestones are achieved for such Collaboration Product, and no payment shall be owed for a Development Milestone which is not reache"
+    },
+    {
+      "rank": 3,
+      "score": 0.677640915,
+      "chunk_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT_chunk_268",
+      "contract_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+      "chunk_index": 268,
+      "filename": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT_cleaned.txt",
+      "text": "t below following the first achievement by Array of the corresponding milestone events set out below with respect to the Product, in accordance with this Section 6.2(a) and the payment provisions in Article 7:\n\nMilestone Event Milestone Payment\n\n1. [ * ] [ * ]\n\n2. [ * ] [ * ]\n\n3. [ * ] [ * ]\n\n4. [ *"
+    }
+  ]
+}

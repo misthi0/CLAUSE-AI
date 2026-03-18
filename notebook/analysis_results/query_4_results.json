@@ -1,0 +1,35 @@
+{
+  "query": "Force majeure and unforeseen circumstances",
+  "timestamp": "2025-12-13T13:40:16.559196",
+  "num_results": 3,
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.729079247,
+      "chunk_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT_chunk_383",
+      "contract_id": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT",
+      "chunk_index": 383,
+      "filename": "INNOVIVA,INC_08_07_2014-EX-10.1-COLLABORATION AGREEMENT_cleaned.txt",
+      "text": "quest for further information there from on a timely basis. 16.3 Force Majeure. The occurrence of an event which materially interferes with the ability of a Party to perform its obligations or duties hereunder which is not within the reasonable control of the Party affected or any of its Affiliates,"
+    },
+    {
+      "rank": 2,
+      "score": 0.72653389,
+      "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT_chunk_70",
+      "contract_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "chunk_index": 70,
+      "filename": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT_cleaned.txt",
+      "text": "MAJEURE The occurrence of an event which materially interferes with the ability of a party to perform its obligations or duties hereunder which is not within the reasonable control of the party affected (or in the case of Supplier, any current manufacturer of the Product) not due to the affected par"
+    },
+    {
+      "rank": 3,
+      "score": 0.716252327,
+      "chunk_id": "PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT_chunk_108",
+      "contract_id": "PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT",
+      "chunk_index": 108,
+      "filename": "PROFOUNDMEDICALCORP_08_29_2019-EX-4.5-SUPPLY AGREEMENT_cleaned.txt",
+      "text": "would be employed by a reasonably prudent person in the position of the affected party), and (c) the Force Majeure event could not reasonably have been circumvented by the affected Party by reasonable and ordinary commercial means, such as the use of alternate suppliers or subcontractors. Notwithsta"
+    }
+  ]
+}

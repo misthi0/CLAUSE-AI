@@ -1,0 +1,26 @@
+======================================================================
+LEGAL AGENT ANALYSIS REPORT
+======================================================================
+
+Clause Type: Legal
+Risk Level: MEDIUM
+Confidence: 80.00%
+Validation: PASSED
+
+──────────────────────────────────────────────────────────────────────
+EXTRACTED CLAUSES (2):
+──────────────────────────────────────────────────────────────────────
+
+1. TERMINATION CLAUSE: Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+2. Immediate termination is permitted in case of material breach.
+
+──────────────────────────────────────────────────────────────────────
+EVIDENCE (2):
+──────────────────────────────────────────────────────────────────────
+
+1. [Similarity: 98.64%] TERMINATION CLAUSE: Either party may terminate this Agreement upon thirty (30) days written notice to the other party.
+
+2. [Similarity: 97.74%] Immediate termination is permitted in case of material breach.
+
+======================================================================

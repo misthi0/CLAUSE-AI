@@ -1,0 +1,19 @@
+{
+  "clause_type": "Legal",
+  "extracted_clauses": [
+    "TERMINATION CLAUSE: Either party may terminate this Agreement upon thirty (30) days written notice to the other party.",
+    "Immediate termination is permitted in case of material breach."
+  ],
+  "risk_level": "medium",
+  "confidence": 0.8,
+  "evidence": [
+    "TERMINATION CLAUSE: Either party may terminate this Agreement upon thirty (30) days written notice to the other party.",
+    "Immediate termination is permitted in case of material breach."
+  ],
+  "validation_passed": true,
+  "similarity_scores": [
+    0.9863516092300415,
+    0.9773721694946289
+  ],
+  "timestamp": "2025-12-20T21:27:27.427266"
+}

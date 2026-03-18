@@ -1,0 +1,35 @@
+{
+  "query": "What are the liability and indemnification provisions?",
+  "timestamp": "2025-12-13T13:40:15.457511",
+  "num_results": 3,
+  "top_k": 3,
+  "results": [
+    {
+      "rank": 1,
+      "score": 0.754627228,
+      "chunk_id": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_chunk_449",
+      "contract_id": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement",
+      "chunk_index": 449,
+      "filename": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement_cleaned.txt",
+      "text": "AIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 11, NEITHER PARTY NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABI"
+    },
+    {
+      "rank": 2,
+      "score": 0.753315926,
+      "chunk_id": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement_chunk_227",
+      "contract_id": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement",
+      "chunk_index": 227,
+      "filename": "CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement_cleaned.txt",
+      "text": "ation and authority to permit Indemnifying Party to defend such Third Party Claim.\n\n13.4 Limitation of Liability. Except for a breach of Section 11 (\"Confidentiality\"), and without limiting a Party's indemnification obligations hereunder, in no event shall either Party be liable to the other Party i"
+    },
+    {
+      "rank": 3,
+      "score": 0.742265701,
+      "chunk_id": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement_chunk_38",
+      "contract_id": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement",
+      "chunk_index": 38,
+      "filename": "ReedsInc_20191113_10-Q_EX-10.4_11888303_EX-10.4_Development Agreement_cleaned.txt",
+      "text": "tion of Liability. EXCEPT WITH RESPECT TO THE INDEMNIFICATION OBLIGATIONS SET FORTH IN SECTION 9 WITH REGARD TO CLAIMS BY THIRD PARTIES, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES OR DIM"
+    }
+  ]
+}
