@@ -1,0 +1,23 @@
+URGENT CONTRACT - CRITICAL ISSUES IDENTIFIED
+
+This agreement contains several problematic clauses that pose significant risks:
+
+PAYMENT TERMS: Payment required upfront with no refund clause. No escrow protection. Vendor has complete control over funds before any work begins.
+
+TERMINATION: No termination rights for the client. Vendor can terminate at any time without notice or cause. Client must continue paying regardless of vendor performance or delivery.
+
+LIABILITY: Client assumes all liability for any damages, losses, or claims. Vendor has zero liability even for gross negligence or willful misconduct. Indemnification clause heavily favors vendor.
+
+INTELLECTUAL PROPERTY: All work product, including client's pre-existing IP, transfers to vendor immediately. Client has no ownership rights to anything created during the engagement.
+
+DISPUTE RESOLUTION: Mandatory arbitration in vendor's home jurisdiction. Client waives right to class action or jury trial. All arbitration costs paid by client regardless of outcome.
+
+CONFIDENTIALITY: Vendor can disclose client's confidential information at their discretion. No NDA protections. Trade secrets not protected.
+
+FORCE MAJEURE: Extremely broad force majeure clause that excuses vendor from nearly all obligations. Client still required to pay during force majeure events.
+
+FINANCIAL TERMS: Total contract value: $500,000 with 100% upfront payment. No milestone-based payments. No performance guarantees. No service level agreements.
+
+REGULATORY COMPLIANCE: Contract lacks required data privacy clauses. No GDPR compliance. No cybersecurity requirements. Potential regulatory violations.
+
+This contract heavily favors the vendor and poses extreme financial, legal, and operational risks to the client.

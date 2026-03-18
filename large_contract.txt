@@ -1,0 +1,9 @@
+CONTRACT AGREEMENT - EXTENDED VERSION
+
+This comprehensive Service Agreement is entered into with detailed terms and conditions covering multiple aspects of the business relationship including but not limited to service delivery, payment terms, intellectual property rights, confidentiality obligations, liability limitations, dispute resolution mechanisms, and termination procedures.
+
+WHEREAS the parties wish to establish a professional relationship for the provision of software development services, and WHEREAS both parties acknowledge the importance of clearly defined terms and conditions to govern their business relationship.
+
+Payment terms are Net 30 with late fees of 1.5% per month on overdue amounts. Services include development, testing, deployment, maintenance, and technical support over a period of 6 months with possible extension upon mutual agreement.
+
+The total contract value is estimated at $50,000 USD with milestone-based payment schedule. Intellectual property rights shall be transferred upon final payment. Both parties agree to maintain strict confidentiality regarding all proprietary information, trade secrets, and business strategies disclosed during the term of this agreement.

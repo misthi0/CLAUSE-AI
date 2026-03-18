@@ -1,0 +1,21 @@
+CONTRACT AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 1, 2025, between TechCorp Inc. ("Client") and ServiceProvider LLC ("Provider").
+
+1. SERVICES
+Provider agrees to provide software development services as outlined in the Statement of Work.
+
+2. PAYMENT TERMS
+Client agrees to pay Provider $50,000 for services rendered. Payment is due within 30 days of invoice date (Net 30).
+
+3. TERM AND TERMINATION
+This Agreement shall commence on the Effective Date and continue for a period of 6 months unless terminated earlier in accordance with this section.
+
+4. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of all proprietary information shared during the term of this Agreement.
+
+5. LIABILITY
+Provider's total liability shall not exceed the total amount paid under this Agreement.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
